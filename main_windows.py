@@ -15,10 +15,10 @@ from selenium.common.exceptions import TimeoutException
 
 
 # SolapiAlarmService 초기화
-api_key = ' '
-api_secret = ' '
-sender_phone = ' '
-recipient_phone = ' '
+api_key = 'your_api_key'
+api_secret = 'your_api_secret'
+sender_phone = 'your_sender_phone'
+recipient_phone = 'recipient_phone'
 
 solapi_service = SolapiAlarmService(api_key, api_secret, sender_phone)
 
