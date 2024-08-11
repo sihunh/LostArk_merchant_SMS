@@ -25,7 +25,7 @@ pip install selenium webdriver_manager schedule requests
 1. 프로젝트 클론:
 
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/sihunh/LostArk_merchant_SMS.git
 cd [your-project-directory]
 ```
 
