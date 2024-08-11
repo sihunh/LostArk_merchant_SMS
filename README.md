@@ -49,8 +49,6 @@ options.binary_location = 'C:/Program Files/Google/Chrome/Application/chrome.exe
 1. 관심 키워드 설정:
 
 ```python
-python
-Copy
 keywords = ['바훈투르 카드', '아제나&이난나 카드', '카마인 카드', '웨이 카드', '데런 아만 카드']
 
 ```
