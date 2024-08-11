@@ -1,4 +1,4 @@
-# LostArk_Merchant_SMS
+# LostArk Merchant SMS
 
 이 프로젝트는 Kloa.gg 웹사이트에서 특정 키워드에 해당하는 카단 서버에 대한 정보를 주기적으로 확인하고, 관심 있는 정보가 발견되면 SMS로 알림을 보내는 자동화 서비스입니다.
 
